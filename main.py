@@ -166,5 +166,5 @@ async def cancel_spam(client, message):
             pass
         return await message.reply('✅ **Stopped MentionAll**')
 
-print("Bot Started")
+print("Bot Successfully Started! 💥")
 app.run()
