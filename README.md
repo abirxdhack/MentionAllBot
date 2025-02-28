@@ -25,7 +25,7 @@
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.9 or higher.
-- `pyrogram`, `openai` libraries.
+- `pyrogram`, `tgcrypto` and `asyncio` libraries.
 - A Telegram bot token (you can get one from [@BotFather](https://t.me/BotFather) on Telegram).
 - API ID and Hash: You can get these by creating an application on [my.telegram.org](https://my.telegram.org).
 
